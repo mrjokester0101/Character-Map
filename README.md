@@ -8,11 +8,10 @@ There aren't any installation steps, you just download it and you can use it imm
 
 ## Requirements
 * Windows 10+
-* Compatibity with x64/x84
+* Compatibity with x64
 
 ## Installation
-* x64 installation
-* x86 installation
+
 
 ## Features & Drawbacks
 Features:
