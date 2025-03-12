@@ -6,7 +6,13 @@ There aren't any installation steps, you just download it and you can use it imm
 
 ![image](images/character-map.png)
 
+## Requirements
+* Windows 10+
+* Compatibity with x64/x84
+
 ## Installation
+* x64 installation
+* x86 installation
 
 ## Features & Drawbacks
 Features:
@@ -20,7 +26,7 @@ Drawbacks:
 * High memory usage
 * 181 MB storage
 * Little slow loading speed
-* Windows only support
+* No white mode so expect a compatibility issue for light mode on it.
 
 > [!NOTE]
 > This application is on version 1 so expect bugs.<br>
