@@ -23,7 +23,7 @@ Drawbacks:
 * Windows only support
 
 > [!NOTE]
-> This tool is currently in development. Any issues can be reported using the Issues tab.<br>
+> This application is on version 1 so expect bugs.<br>
 > Also i'm just enjoying learning more about scripting/programming and learning as I go.<br>
 > I'm a person who enjoys working alone so don't take it personally if i don't accept pull requests.
 
