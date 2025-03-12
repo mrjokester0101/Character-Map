@@ -4,6 +4,8 @@ A new simple way of getting characters!
 **Character Map** is a windows application & a more simple way to get characters.
 There aren't any installation steps, you just download it and you can use it immediately!
 
+![image](https://github.com/mrjokester0101/Character-Map/images/character-map.png)
+
 ## Installation
 
 ## Features & Drawbacks
