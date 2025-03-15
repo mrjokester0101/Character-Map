@@ -10,7 +10,7 @@ A new simple way of getting characters!
 * Compatibity with x64
 
 ## Installation
-
+![X64 INSTALL](https://files.fm/f/4bk38caxk4)
 
 ## Features & Drawbacks
 Features:
