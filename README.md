@@ -2,7 +2,6 @@
 A new simple way of getting characters!
 
 **Character Map** is a windows application & a more simple way to get characters.
-There aren't any installation steps, you just download it and you can use it immediately!
 
 ![image](images/character-map.png)
 
@@ -23,7 +22,7 @@ Features:
 
 Drawbacks:
 * High memory usage
-* 181 MB storage
+* 242 MB storage
 * Little slow loading speed
 * No white mode so expect a compatibility issue for light mode on it.
 
