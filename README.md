@@ -24,7 +24,8 @@ Drawbacks:
 * No white mode so expect a compatibility issue for light mode on it.
 
 ## Download
-[Portable](https://github.com/mrjokester0101/Character-Map/raw/refs/heads/main/CharacterMap.exe)
+[Installation](https://github.com/mrjokester0101/Character-Map/raw/refs/heads/main/install.msi)
+[Portable Edition](https://github.com/mrjokester0101/Character-Map/raw/refs/heads/main/CharacterMap.exe)
 
 > [!NOTE]
 > I'm just enjoying learning more about scripting/programming and learning as I go.<br>
