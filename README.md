@@ -8,9 +8,8 @@ A new simple way of getting characters!
 ## Requirements
 * Windows 10+
 * Compatibity with x64
-
-## Installation
-[X64 INSTALL](https://files.fm/f/4bk38caxk4)
+* 8.77 MB of available storage
+* 3.2 MB of memory
 
 ## Features & Drawbacks
 Features:
@@ -21,14 +20,11 @@ Features:
 * 13311 different characters
 
 Drawbacks:
-* High memory usage
-* 242 MB storage
 * Little slow loading speed
 * No white mode so expect a compatibility issue for light mode on it.
 
 > [!NOTE]
-> This application is on version 1 so expect bugs.<br>
-> Also i'm just enjoying learning more about scripting/programming and learning as I go.<br>
+> I'm just enjoying learning more about scripting/programming and learning as I go.<br>
 > I'm a person who enjoys working alone so don't take it personally if i don't accept pull requests.
 
 ## Community
