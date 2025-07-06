@@ -23,6 +23,8 @@ Drawbacks:
 * Little slow loading speed
 * No white mode so expect a compatibility issue for light mode on it.
 
+## Download
+[Click me](https://github.com/mrjokester0101/Character-Map/raw/refs/heads/main/CharacterMap.exe)
 > [!NOTE]
 > I'm just enjoying learning more about scripting/programming and learning as I go.<br>
 > I'm a person who enjoys working alone so don't take it personally if i don't accept pull requests.
