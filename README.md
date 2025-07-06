@@ -8,7 +8,7 @@ A new simple way of getting characters!
 ## Requirements
 * Windows 10+
 * Compatibity with x64
-* 8.77 MB of available storage
+* 8.78 MB of available storage
 * 3.2 MB of memory
 
 ## Features & Drawbacks
